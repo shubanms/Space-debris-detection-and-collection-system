@@ -4,6 +4,8 @@
         "crosstab",
         "isna",
         "normaltest",
+        "notna",
+        "Perceptron",
         "PERIAPSIS",
         "PERICENTER",
         "scipy",
