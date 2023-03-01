@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
         "APOAPSIS",
+        "arctan",
+        "blit",
+        "comicsans",
         "crosstab",
         "isna",
         "normaltest",
@@ -8,8 +11,13 @@
         "Perceptron",
         "PERIAPSIS",
         "PERICENTER",
+        "pygame",
         "scipy",
         "SEMIMAJOR",
-        "sklearn"
+        "sklearn",
+        "TIMESTEP",
+        "xlabel",
+        "ylabel",
+        "zlabel"
     ]
 }
